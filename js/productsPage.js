@@ -76,7 +76,7 @@ onload = function () {
                 return false;
             }
         }
-        location.href = "home.html";
+        location.href = "index.html";
     });    
 }
 
